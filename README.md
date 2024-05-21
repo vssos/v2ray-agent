@@ -93,14 +93,6 @@ wget -P /root -N --no-check-certificate "https://www.v2ray-agent.com/v2ray-agent
 
 - 提交[issue](https://github.com/mack-a/v2ray-agent/issues)、[加入](https://t.me/technologyshare)群聊
 
-# 五、捐赠
-
-- 感谢您对开源项目的关注和支持。如果您觉得这个项目对您有帮助，欢迎通过以下方式进行捐赠。
-
-- [购买VPS捐赠](https://www.v2ray-agent.com/categories/vps)
-
-- [通过虚拟币向我捐赠](https://www.v2ray-agent.com/1679123834836)
-
-# 六、许可证
+# 五、许可证
 
 [AGPL-3.0](https://github.com/mack-a/v2ray-agent/blob/master/LICENSE)
